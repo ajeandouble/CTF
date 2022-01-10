@@ -55,6 +55,9 @@ R-studio
 ### Web
 
 [de4js - javascript deobfuscator](https://lelinhtinh.github.io/de4js/)
+
+### XSS
+[DOM Base Cross Site Scripting](http://www.webappsec.org/projects/articles/071105.html)
 [XSStrike - XSS detection suite](https://github.com/s0md3v/XSStrike)
 
 ## Knowledge
