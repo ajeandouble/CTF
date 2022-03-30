@@ -59,3 +59,4 @@ root-me/tmp
 **/tmp/**
 help/
 io-netgarage/passwords.txt
+.vscode/*

