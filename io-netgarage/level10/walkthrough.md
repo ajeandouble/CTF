@@ -1,6 +1,6 @@
 # Walkthrough
 
-I recompiled level10_bis.c but due to difference with the process executing in gdb I couldn't resolve the channel this way.
+I recompiled level10_bis.c but due to difference with the process executing in gdb I couldn't fastly resolve the channel this way.
 Since I'm a lazy fuck I copied the executable into /tmp/ directly and modified the hardoded string ```/levels/level10_bis.pass``` into ```/tmp/l10/level10_bb.pass``` inside vim:
 
 My fake password file:
