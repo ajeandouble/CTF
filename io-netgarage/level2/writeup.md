@@ -1,4 +1,4 @@
-#level2
+# Writeup
 
 We need to generate a SIGFPE signal to spawn the shell.
 
